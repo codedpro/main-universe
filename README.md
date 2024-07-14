@@ -12,12 +12,12 @@ To get started with the Personal AI Universe Project, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/personal-ai-universe.git
+   git clone https://github.com/codedpro/personal-ai-universe.git
    ```
 
 2. **Navigate to the Project Directory**:
    ```bash
-   cd personal-ai-universe
+   cd main-universe
    ```
 
 3. **Install Dependencies**:
